@@ -1,4 +1,4 @@
-package main
+package containers
 
 // Queue int variant of Queue implementation
 type Queue struct {

@@ -1,4 +1,4 @@
-package main
+package containers
 
 // Stack int variant of Stack implementation
 type Stack struct {
